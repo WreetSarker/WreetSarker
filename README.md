@@ -27,7 +27,7 @@
 <a href="https://kaggle.com/wreetsarker" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/399/47/gratis-png-kaggle-modelado-predictivo-ciencia-de-datos-analisis-predictivo-de-negocios-thumbnail.png" alt="wreetsarker" height="30" width="40" /></a>
 <a href="https://fb.com/wreet.sarker" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202107facebookfblogosocialsocialmedia-115710_115591.png" alt="wreet.sarker" height="30" width="40" /></a>
 <a href="https://instagram.com/wreet_016" target="blank"><img align="center" src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" alt="wreet_016" height="30" width="40" /></a>
-<a href="https://medium.com/@wreet.sarker" target="blank"><img align="center" src="https://miro.medium.com/max/3404/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="@wreet.sarker" height="30" width="40" /></a>
+<a href="https://medium.com/@wreet-sarker" target="blank"><img align="center" src="https://miro.medium.com/max/3404/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="@wreet.sarker" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wreet_sarker" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="wreet_sarker" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wreet016" target="blank"><img align="center" src="https://ih1.redbubble.net/image.662995398.2784/pp,840x830-pad,1000x1000,f8f8f8.u3.jpg" alt="wreet016" height="30" width="40" /></a>
 </p>
