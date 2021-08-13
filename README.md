@@ -41,5 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wreetsarker&" alt="wreetsarker" /></p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4fc5e78e-ed0d-4921-afec-eb94167d0a3e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4fc5e78e-ed0d-4921-afec-eb94167d0a3e" data-share-badge-host="https://www.credly.com"></div>
 
